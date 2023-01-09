@@ -1,2 +1,2 @@
 # odin-recipes
-For this project I'll be creating my first basic website! This will include, images, links, different stylized text. After I've learned some basic skills with CSS I will come back to this project to add some flare to it.
+For this project I'll be creating my first basic website! This will include, images, links, different stylized text, and fonts. After I've learned some basic skills with CSS I will come back to this project to add some flare to it.
